@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge Bastori
 
-<!--
-**jortecs/jortecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+Tengo 26 años y soy un desarrollador Front-End apasionado por crear interfaces interactivas y atractivas. Me encanta aprender y explorar nuevas tecnologías para mejorar continuamente mis habilidades.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que manejo
+- **Lenguajes y herramientas de desarrollo:**
+  - HTML, CSS, JavaScript
+  - Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Herramientas creativas:**
+  - Photoshop
+  - Canvas
+  - Aseprite
+
+### 🎨 Habilidades adicionales
+Además de la programación, me gusta crear pixel art utilizando **Aseprite**, lo que me permite combinar mi amor por el diseño con mis habilidades técnicas.
+
+### 🚀 ¿Qué puedes encontrar en mi perfil?
+Proyectos personales, pequeños ejercicios para mejorar habilidades y ejemplos de código que reflejan mi crecimiento continuo como desarrollador.
+
+---
+
+### 📫 ¡Conéctate conmigo!
+Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en escribirme.
