@@ -23,4 +23,4 @@ Personal projects, small exercises to improve skills and code examples that refl
 If you have any questions, suggestions or just want to say hi, feel free to drop me a line.
 jorgebastori@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jortecs&theme=violet-punch&border_radius=5.4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jortecs&theme=violet-punch&border_radius=5.4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
